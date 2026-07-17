@@ -1,5 +1,7 @@
 # Kubernetes DevOps Demo
 
+[![Helm Chart Validation](https://github.com/quort3/kubernetes/actions/workflows/helm-check.yml/badge.svg)](https://github.com/quort3/kubernetes/actions/workflows/helm-check.yml)
+
 A production-style Kubernetes project demonstrating deployment using Helm, Namespaces, Ingress and environment-specific configurations.
 
 ---
